@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tush Tush
+          Tush Tush Tush Tush Tush
         </a>
       </header>
     </div>
